@@ -1,2 +1,4 @@
 # 32_os
-the tempele of the os @bom2013
+This project uses code developed by [@boom2013](https://github.com).
+
+
